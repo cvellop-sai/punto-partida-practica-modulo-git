@@ -6,3 +6,5 @@
     5. git switch -c dev
     ![git remote -v](capturas/1-git-remote--v.png)
     ![git remote -v](capturas/2-github-dev-branch.png)
+# Tarea 2:
+     ![opcion-5](capturas/3-app-opcion-5.png)
