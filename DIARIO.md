@@ -4,8 +4,8 @@
 3. npm install ; npm run dev ; visitar http://localhost:5173
 4. git remote add upstream ...
 5. git switch -c dev
-6. ## Fork:
-7. Realiza una copia de un repositorio para tener acceso "privado" para trabajar.
+## Fork:
+Realiza una copia de un repositorio para tener acceso "privado" para trabajar.
 ## Upstream:
 Sirve para poder subir (push) o descargar (fetch) código a un repositorio diferente al remoto. Generalmente al que se hizo fork.
    
