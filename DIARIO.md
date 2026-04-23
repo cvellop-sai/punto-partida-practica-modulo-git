@@ -24,3 +24,11 @@ La rama parte de dev para que todas las modificaciones en posibles ramas diferen
 El conflicto es cuando modificaciones de un archivo en ramas diferentes, afectan al mismo fragmento de código (una linea al menos), y cuando se quieren fusionar no se sabe cuál es la modificación correcta. 
 
 Aquí se ha modificado la descripción de la opción 3 en dos ramas diferentes, por lo que no se sabrá de forma automática qué descripción es la definitiva.
+
+# Tarea 4:
+Se ha modificado la línea 28 de description de Opción 3.
+
+En la línea 41 se ha añadido nuevo código de la opción 5.
+![PR Files changed](capturas/4-PR de Feature A en Github.png)
+
+
