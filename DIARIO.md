@@ -19,3 +19,8 @@ La rama parte de dev para que todas las modificaciones en posibles ramas diferen
 
 ## Captura 3: opción 5
 ![opcion 5](capturas/3-app-opcion-5.png)
+
+# Tarea 3:
+El conflicto es cuando modificaciones de un archivo en ramas diferentes, afectan al mismo fragmento de código (una linea al menos), y cuando se quieren fusionar no se sabe cuál es la modificación correcta. 
+
+Aquí se ha modificado la descripción de la opción 3 en dos ramas diferentes, por lo que no se sabrá de forma automática qué descripción es la definitiva.
