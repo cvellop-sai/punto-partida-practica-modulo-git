@@ -30,7 +30,7 @@ Se ha modificado la línea 28 de description de Opción 3.
 
 En la línea 41 se ha añadido nuevo código de la opción 5.
 ## Captura 4: PR A
-![PR A Files changed](capturas/4-PR de Feature A en Github.png)
+![PR A Files changed](capturas/4-PR de Feature A en GitHub.png)
 
 # Tarea 5:
 
@@ -38,10 +38,10 @@ Los marcadores <<<<<<<, ======= y >>>>>>> indican las líneas de código cont
 
 ## Captura 5: PR B
 ![PR Feature B](capturas/5-PR de Feature B en GitHub.png)
-## Captura 6: Maercadores de conflictos
-![marcadores de conflictos](capturas/6-marcadores de conflictos.png)
+## Captura 6: Marcadores de conflictos
+![marcadores de conflictos](capturas/6-marcadores de conflicto.png)
 ## Captura 7: App con confilctos resueltos
-![app sin conflictos](capturas7-app en el navegador.png)
+![app sin conflictos](capturas/7-app en el navegador.png)
 
 # Tarea 6:
 ## Captura 8: GIT log --oneline
